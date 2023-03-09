@@ -13,5 +13,9 @@ Ro: Nunca faça miojo em menos de 3 minutos
 
 Ri: Por que os programadores preferem o frio ao calor?
 Ro: Porque no frio eles podem usar mais casacos, enquanto no calor eles só têm um refresh (atualização) por minuto!
+
 Ig: Já fiz um miojo em menos de 3 minutos.
 Ig: Já fiz dois miojo em menos de 3 minutos.
+
+Bi: Por que os programadores preferem o frio ao calor?
+Bo: Porque no frio eles podem usar mais casacos, enquanto no calor eles só têm um refresh (atualização) por minuto!
