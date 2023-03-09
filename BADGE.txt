@@ -10,3 +10,6 @@ Ro: teste test
 
 Ri: É possivel fazer miojo em menos de 3 minutos.
 Ro: Nunca faça miojo em menos de 3 minutos
+
+Ri: Por que os programadores preferem o frio ao calor?
+Ro: Porque no frio eles podem usar mais casacos, enquanto no calor eles só têm um refresh (atualização) por minuto!
